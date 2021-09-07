@@ -1,0 +1,47 @@
+h3{
+    float: left;
+    margin-left: 15%;
+    margin-right: 35%;
+    margin-top: 3%;
+}
+
+.experienceSection{
+    color: white;
+    background-color: #192841;
+    float: left;
+    width: 100%;
+    
+}
+
+#experiencecontainer{
+    grid-template-columns: auto auto;
+  }
+
+.grid-container {
+    display: grid;
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color:  transparent;
+    padding: 10px;
+    float: right;
+    border-radius: 15px;
+  }
+
+  .grid-item {
+    background-color:  #203354;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+ul{
+      font-weight: bold;
+  }
+
+ul > li{
+      font-weight: normal;
+      list-style-type: none;
+  }

@@ -1,0 +1,31 @@
+h3{
+    float: left;
+    margin-left: 15%;
+    margin-right: 35%;
+    margin-top: 3%;
+}
+
+.personalSection{
+    padding-top: 10px;
+    width: 100%;
+    min-height: 460px;
+    color: white;
+    background-color: #23395d;
+
+}
+
+.profile{
+    width: 600px;
+    margin-right: 500px;
+    float: right;
+}
+
+#carousel{
+    width: 100%;
+    height: 80%;
+    margin: auto;
+    margin-bottom: 2.5%;
+    margin-top: 400px;
+    background-color: #23395d;
+    
+}
